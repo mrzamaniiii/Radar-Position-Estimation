@@ -1,6 +1,6 @@
 ## 🧠 Overview
 
-This project presents the MATLAB implementation for Radar Imaging, including signal modeling, direction of arrival (DoA) estimation, range estimation, and MIMO radar analysis. The code is divided into four tasks aligned with the report.
+This project presents the MATLAB implementation for Radar Imaging, including signal modeling, direction of arrival (DoA) estimation, range estimation, and MIMO radar analysis.
 
 ---
 
