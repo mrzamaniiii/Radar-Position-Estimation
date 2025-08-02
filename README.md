@@ -1,4 +1,4 @@
-![Uploading ChatGPT Image 2 ago 2025, 18_27_57.png…]()
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/5476087e-4150-4fa6-8bc9-542b4274b92b" />
 
 ## 🧠 Overview
 
