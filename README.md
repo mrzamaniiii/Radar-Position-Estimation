@@ -38,14 +38,14 @@ This project presents the MATLAB implementation for Radar Imaging, including sig
 ### 3. 📏 2D Position Estimation
 
 - Models radar signal as a sinc-modulated chirp.
-- Applies round-trip time delay and estimates target **range** using cross-correlation.
+- Applies round-trip time delay and estimates target range using cross-correlation.
 
 **Code:** `range_estimation.m`
 
 ### 4. 🧠 MIMO Radar
 
-- Constructs a **virtual array** using 2 Tx and 29 Rx antennas (→ 58 elements).
-- Estimates **DoA and range simultaneously**.
+- Constructs a virtual array using 2 Tx and 29 Rx antennas (→ 58 elements).
+- Estimates DoA and range simultaneously.
 - FFT used for angular domain; cross-correlation for range.
 
 **Code:** `mimo_doa_range_estimation.m`
