@@ -1,4 +1,4 @@
-<img width="460" height="307" alt="Image" src="https://github.com/user-attachments/assets/3ace32eb-d17f-4460-a97f-8b2155f88ff1" />
+<img width="440" height="287" alt="Image" src="https://github.com/user-attachments/assets/3ace32eb-d17f-4460-a97f-8b2155f88ff1" />
 
 ## Overview
 
@@ -27,7 +27,6 @@ This project presents the MATLAB implementation for Radar Imaging, including sig
 
 - Uses spatial FFT of demodulated signals to estimate target angle.
 - Resolution computed by analyzing FFT sidelobes.
-- Extended to multiple targets with `findpeaks`.
 
 ### 3. 2D Position Estimation
 
